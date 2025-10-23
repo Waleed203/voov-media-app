@@ -1,0 +1,6 @@
+framework module RNStaticSafeAreaInsets {
+  umbrella header "RNStaticSafeAreaInsets-umbrella.h"
+
+  export *
+  module * { export * }
+}

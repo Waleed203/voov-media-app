@@ -1,0 +1,16 @@
+{
+  "name": "VoovFinal",
+  "displayName": "VoovFinal",
+  "plugins": [
+    [
+      "react-native-bootsplash",
+      {
+        "assetsDir": "assets/bootsplash"
+      }
+    ]
+  ],
+  "react-native-google-mobile-ads": {
+    "android_app_id": "ca-app-pub-6304907491626047~4805127783",
+    "ios_app_id": "ca-app-pub-6304907491626047~4805127783"
+  }
+}

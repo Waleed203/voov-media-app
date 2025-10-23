@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>104870875531-9fs88449pfonbogsvt7qv9toau05usqh.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.104870875531-9fs88449pfonbogsvt7qv9toau05usqh</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>104870875531-01evpkn950dp4dogh36k0ou78h5rbtb2.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAAtBr5UzoOhXin-8j5whR5zWjBQC7EAzY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>104870875531</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.voov.voovmedia</string>
+	<key>PROJECT_ID</key>
+	<string>voov-tv</string>
+	<key>STORAGE_BUCKET</key>
+	<string>voov-tv.firebasestorage.app</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:104870875531:ios:9fcbecb085e5a6ae665f8e</string>
+	<key>DATABASE_URL</key>
+	<string>https://voov-tv.firebaseio.com</string>
+</dict>
+</plist>

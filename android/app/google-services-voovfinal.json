@@ -1,0 +1,101 @@
+{
+  "project_info": {
+    "project_number": "104870875531",
+    "firebase_url": "https://voov-tv.firebaseio.com",
+    "project_id": "voov-tv",
+    "storage_bucket": "voov-tv.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:104870875531:android:1f6c9efd02ec086c665f8e",
+        "android_client_info": {
+          "package_name": "com.voov.voovmedia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "104870875531-69iirmibisog7gplreah9cik935u6mmk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.voov.voovmedia",
+            "certificate_hash": "a04f1ef6d73eac040f275c29568c36cd0e2a293c"
+          }
+        },
+        {
+          "client_id": "104870875531-pe24dq0q4r84shk0o5g1otnn77nn549c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.voov.voovmedia",
+            "certificate_hash": "d9ad8cdfeee4c636caf2b10689899450fb6dd8fd"
+          }
+        },
+        {
+          "client_id": "104870875531-gn7d96n6rmihbef9jgrhv7arscn60sgu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUmQRGCgK-fCG8vKxF2f4U65DNkJ5TTuQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "104870875531-gn7d96n6rmihbef9jgrhv7arscn60sgu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "104870875531-9fs88449pfonbogsvt7qv9toau05usqh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.voov.voovmedia",
+                "app_store_id": "1634984564"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:104870875531:android:354e692c0de4f69b665f8e",
+        "android_client_info": {
+          "package_name": "com.voov.voovmedia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "104870875531-gn7d96n6rmihbef9jgrhv7arscn60sgu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUmQRGCgK-fCG8vKxF2f4U65DNkJ5TTuQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "104870875531-gn7d96n6rmihbef9jgrhv7arscn60sgu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "104870875531-9fs88449pfonbogsvt7qv9toau05usqh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.voov.voovmedia",
+                "app_store_id": "1634984564"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

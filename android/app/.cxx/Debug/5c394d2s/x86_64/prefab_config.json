@@ -1,0 +1,11 @@
+{
+  "enabled": true,
+  "prefabPath": "/Users/rapplestore/.gradle/caches/modules-2/files-2.1/com.google.prefab/cli/2.1.0/aa32fec809c44fa531f01dcfb739b5b3304d3050/cli-2.1.0-all.jar",
+  "packages": [
+    "/Users/rapplestore/Desktop/ReactNative/VoovMediaFinal/node_modules/react-native-vision-camera/android/build/intermediates/prefab_package/debug/prefab",
+    "/Users/rapplestore/.gradle/caches/8.10.2/transforms/d39e944a6b1d3897707cbb86a9314ea5/transformed/react-android-0.78.1-debug/prefab",
+    "/Users/rapplestore/Desktop/ReactNative/VoovMediaFinal/node_modules/react-native-reanimated/android/build/intermediates/prefab_package/debug/prefab",
+    "/Users/rapplestore/.gradle/caches/8.10.2/transforms/28fdd80d120c55da201da8fb20aa84b2/transformed/hermes-android-0.78.1-debug/prefab",
+    "/Users/rapplestore/.gradle/caches/8.10.2/transforms/bc485c1f14c78be932bf3b3065ba2931/transformed/fbjni-0.7.0/prefab"
+  ]
+}

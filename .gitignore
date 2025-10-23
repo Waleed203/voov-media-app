@@ -1,0 +1,10 @@
+# .gitignore
+node_modules/
+__tests__/
+android/app/build/
+ios/build/
+*.log
+*.zip
+*.mp4
+*.apk
+*.aab
