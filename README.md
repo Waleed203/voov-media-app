@@ -62,7 +62,7 @@ AdMob **Interstitial Ads** appear after every video for monetization.
 
 The project follows a modular and maintainable architecture:
 
-```
+```bash
 
 src/
 ├── assets/              # App images, icons, logos, etc.
@@ -75,7 +75,7 @@ src/
 ├── theme/               # Colors, fonts, and global styles
 └── utils/               # Helper utilities
 
-````
+```
 
 ---
 
